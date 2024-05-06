@@ -1,0 +1,2 @@
+['empty' 'sadness' 'enthusiasm' 'neutral' 'worry' 'surprise' 'love' 'fun'
+ 'hate' 'happiness' 'boredom' 'relief' 'anger']
